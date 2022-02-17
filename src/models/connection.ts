@@ -16,4 +16,4 @@ const connection = async () => {
    });
 };
 
-module.exports = connection;
+export default connection;
