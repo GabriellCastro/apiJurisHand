@@ -1,6 +1,11 @@
 import connection from './connection';
 import { ObjectId } from 'mongodb';
 
+export const getAll = async () => {
+  const db = await connection();
+  return db.collection('users').find().toArray();
+}
+
 export const getByid = async (id: any) => {
   if(!ObjectId.isValid(id)) return null;
   const db = await connection();
