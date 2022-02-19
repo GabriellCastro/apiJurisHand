@@ -43,11 +43,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```
 
-<p> O banco não vem populado então entre na aplicação web e coloque seus projetos. </p>
+<p> O banco não vem populado então entre na aplicação web e coloque seus usuários.</p>
 
 ### 💻 Desenvolvedor:
 
 Desenvolvido por Gabriel Castro ! 🥇  
 <kbd>
-    <img src="https://avatars.githubusercontent.com/u/61993679?s=460&u=970a557bb6ad3bf6ff644dc20d5b6d3cdd753a93&v=4" width="100px;" />
- </kbd>
+   <img src="https://avatars.githubusercontent.com/u/61993679?s=460&u=970a557bb6ad3bf6ff644dc20d5b6d3cdd753a93&v=4" width="100px;" />
+</kbd>
